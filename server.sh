@@ -1,0 +1,6 @@
+
+
+export PORT=4000
+
+
+npm run dev
